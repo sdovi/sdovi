@@ -1,4 +1,4 @@
-<h1 style="color: #317aeb; font-family: 'Minecraft', sans-serif; font-size:24px;">Hello there! 👋 <br/> I'm a front-end Developer</h1>
+<h1 style="color: #317aeb; font-family: 'Minecraft', sans-serif; font-size:24px;">Hello there! 👋  I'm a front-end Developer</h1>
 
 **Welcome to my GitHub profile!** 🌟
 
