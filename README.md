@@ -9,7 +9,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-090909?style=for-the-badge&logo=API&logoColor=white)
+![Python](https://img.shields.io/badge/-REST%20API-090909?style=for-the-badge&logo=Python&logoColor=white)
 
 ### Socials:
 
